@@ -1,5 +1,46 @@
 {
-  "users": [{ "id": 1, "name": "Stillhome" }],
+  "users": [
+    {
+      "id": 1,
+      "name": "Stillhome"
+    },
+    {
+      "name": "Virgil Prosacco",
+      "id": 2
+    },
+    {
+      "name": "Courtney Bednar-Carter",
+      "id": 3
+    },
+    {
+      "name": "Ira Hills",
+      "id": 4
+    },
+    {
+      "name": "Vickie Brown",
+      "id": 5
+    },
+    {
+      "name": "Amos Skiles",
+      "id": 6
+    },
+    {
+      "name": "Nora Ward",
+      "id": 7
+    },
+    {
+      "name": "Jenna Bernier PhD",
+      "id": 8
+    },
+    {
+      "name": "Genevieve Barrows",
+      "id": 9
+    },
+    {
+      "name": "Renee Nitzsche",
+      "id": 10
+    }
+  ],
   "albums": [],
   "photos": []
 }
