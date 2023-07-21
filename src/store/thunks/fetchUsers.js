@@ -13,8 +13,8 @@ const fetchUsers = createAsyncThunk('users/fetch', async () => {
 // development test
 const pause = (duration) => {
   return new Promise((resolve) => {
-    setTimeout(resolve, duration)
-  })
-}
+    setTimeout(resolve, duration);
+  });
+};
 
 export { fetchUsers };
