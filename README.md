@@ -1,6 +1,6 @@
 # Musegram - A Photo Album Application
 
-![Musegram](https://i.imgur.com/6mdyWuv.png)
+![Musegram](https://i.imgur.com/tffSgMF.png)
 
 ## Project Motivation
 
@@ -27,10 +27,12 @@ Overall, yeah Musegram was a fantastic opportunity for me to amplify Redux, RTK,
   - [Contributing](#contributing)
   - [License](#license)
   - [Screenshots 📸](#screenshots-)
+    - [Musegram - Displaying Error when Server (json-server) is down](#musegram---displaying-error-when-server-json-server-is-down)
     - [Musegram - Lazy Loading](#musegram---lazy-loading)
     - [Musegram - Home](#musegram---home)
     - [Musegram - Loading Album](#musegram---loading-album)
     - [Musegram - Loading Photos](#musegram---loading-photos)
+    - [Musegram - Displaying Delete on Mouse Hover over Photos](#musegram---displaying-delete-on-mouse-hover-over-photos)
 
 ## Introduction
 
@@ -193,6 +195,9 @@ Musegram is open-source software licensed under the MIT License.
 ## Screenshots 📸
 Lazy loading and spinning button is implemented on data fetch, add mutation and remove mutation.
 
+### Musegram - Displaying Error when Server (json-server) is down
+![Musegram - Displaying Error when Server (json-server) is down](https://i.imgur.com/lUzDa33.png)
+
 ### Musegram - Lazy Loading
 ![Musegram - Lazy Loading](https://i.imgur.com/KX4Otao.png)
 
@@ -204,3 +209,6 @@ Lazy loading and spinning button is implemented on data fetch, add mutation and 
 
 ### Musegram - Loading Photos
 ![Musegram - Loading Photos](https://i.imgur.com/6mdyWuv.png)
+
+### Musegram - Displaying Delete on Mouse Hover over Photos
+![Musegram - Displaying Delete on Mouse Hover over Photos](https://i.imgur.com/tffSgMF.png)
